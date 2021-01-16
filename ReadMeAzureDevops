@@ -10,3 +10,4 @@ Create release
 azure-pipelines.yml should be placed in the project path as this is the heart of azure
 
 Predefined variables helps in easy yaml configuration e.g copy, publish
+trigger<directory> ; will trigger the continuos integration concept; run when any code change is made to the trigger directory
