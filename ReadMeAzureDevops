@@ -6,3 +6,7 @@ Azure Pipelines:
 Build Pipeline to build artefact using yaml file
 Release pipeline -
 Create release
+
+azure-pipelines.yml should be placed in the project path as this is the heart of azure
+
+Predefined variables helps in easy yaml configuration e.g copy, publish
